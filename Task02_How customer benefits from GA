@@ -1,0 +1,14 @@
+1.Scale for increased application utilization
+2.Acceleration for latency-sensitive applications
+3.Disaster recovery and multi-Region resiliency
+4.Protect your applications
+5.Improve performance for VoIP or online gaming applications
+
+
+*)     How to launch Linux OS from EC2-instance as GUI ?
+
+1.Connect to your instance as EC2-user using SSH.
+2.Update your instance by running sudo yum update, and then reboot the instance.
+3.Install the MATE desktop environment
+4.Install TigerVNC
+5.Connect to the GUI using VNC
